@@ -8,7 +8,6 @@ I created this notebook to understand:
 
 The notebook is written in a very simple way with explanations, comparisons, and architecture images.
 
-
 ---
 
 # Topics Covered Step by Step

@@ -105,6 +105,7 @@ Auxiliary classifiers for vanishing gradient problem
 
 ---
 
+
 This notebook is mainly created to:
 - Learn Deep Learning architectures
 - Understand CNN optimization ideas

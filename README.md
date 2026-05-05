@@ -105,10 +105,6 @@ Auxiliary classifiers for vanishing gradient problem
 
 ---
 
-# Goal of This Notebook
-
-This is not a full project.
-
 This notebook is mainly created to:
 - Learn Deep Learning architectures
 - Understand CNN optimization ideas
@@ -117,13 +113,3 @@ This notebook is mainly created to:
 
 ---
 
-# Author
-
-Dhiman Tarafdar  
-CSE Student | Learning Deep Learning & AI
-"""
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-
-print(f"README saved to: {path}")
